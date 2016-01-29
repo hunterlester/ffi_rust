@@ -1,0 +1,27 @@
+{
+  "name": "ffi_rust",
+  "version": "1.0.0",
+  "description": "depencies for Rust ffi",
+  "main": "node_test.js",
+  "dependencies": {
+    "ffi": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hunterlester/ffi_rust.git"
+  },
+  "keywords": [
+    "rust",
+    "nodejs"
+  ],
+  "author": "Hunter Lester",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hunterlester/ffi_rust/issues"
+  },
+  "homepage": "https://github.com/hunterlester/ffi_rust#readme"
+}

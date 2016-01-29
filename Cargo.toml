@@ -1,0 +1,8 @@
+[package]
+name = "rustffi"
+version = "0.0.1"
+authors = ["hunterlester <guilfordhunter@gmail.com>"]
+
+[lib]
+name = "rustffi"
+crate-type = ["dylib"]
